@@ -5,4 +5,4 @@
 part of 'copy_button.dart';
 
 /// The scope of [CopyButton]'s class names.
-const _$CopyButtonScope = ClassScope('CopyButton', '2nbxh9');
+const _$CopyButtonScope = ClassScope('CopyButton', 'e1gkxv');

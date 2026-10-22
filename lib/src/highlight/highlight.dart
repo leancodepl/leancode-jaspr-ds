@@ -9,9 +9,9 @@ library;
 import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
 import 'package:jaspr_class_scope/jaspr_class_scope.dart';
-import 'package:leancode_site/src/highlight/grammars/json_grammar.dart';
-import 'package:leancode_site/src/highlight/grammars/shell_grammar.dart';
-import 'package:leancode_site/src/highlight/grammars/yaml_grammar.dart';
+import 'package:leancode_jaspr_ds/src/highlight/grammars/json_grammar.dart';
+import 'package:leancode_jaspr_ds/src/highlight/grammars/shell_grammar.dart';
+import 'package:leancode_jaspr_ds/src/highlight/grammars/yaml_grammar.dart';
 import 'package:syntax_highlight_lite/syntax_highlight_lite.dart' as sh;
 
 part 'highlight.scopes.dart';

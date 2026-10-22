@@ -5,4 +5,4 @@
 part of 'docs_table.dart';
 
 /// The scope of [DocsTable]'s class names.
-const _$DocsTableScope = ClassScope('DocsTable', 'qvwgi2');
+const _$DocsTableScope = ClassScope('DocsTable', '783v5b');

@@ -5,4 +5,4 @@
 part of 'card.dart';
 
 /// The scope of [Card]'s class names.
-const _$CardScope = ClassScope('Card', 's2wzc3');
+const _$CardScope = ClassScope('Card', '5oql91');

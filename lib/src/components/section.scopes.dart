@@ -5,13 +5,13 @@
 part of 'section.dart';
 
 /// The scope of [Section]'s class names.
-const _$SectionScope = ClassScope('Section', 'cte2vr');
+const _$SectionScope = ClassScope('Section', 's8zlg8');
 
 /// The scope of [DocSection]'s class names.
-const _$DocSectionScope = ClassScope('DocSection', 'm6u5wx');
+const _$DocSectionScope = ClassScope('DocSection', '5q58n4');
 
 /// The scope of [DocHeading]'s class names.
-const _$DocHeadingScope = ClassScope('DocHeading', 's1qdqc');
+const _$DocHeadingScope = ClassScope('DocHeading', 'mppoop');
 
 /// The scope of [Prose]'s class names.
-const _$ProseScope = ClassScope('Prose', 'trb2mr');
+const _$ProseScope = ClassScope('Prose', 'hr0hhl');

@@ -5,4 +5,4 @@
 part of 'faq.dart';
 
 /// The scope of [Faq]'s class names.
-const _$FaqScope = ClassScope('Faq', '0hfbpa');
+const _$FaqScope = ClassScope('Faq', '3650lo');

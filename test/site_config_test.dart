@@ -5,7 +5,7 @@
  */
 
 import 'package:jaspr/dom.dart';
-import 'package:leancode_site/leancode_site.dart';
+import 'package:leancode_jaspr_ds/leancode_jaspr_ds.dart';
 import 'package:test/test.dart';
 
 SiteConfig _config(String siteUrl) => .new(

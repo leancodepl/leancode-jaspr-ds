@@ -6,7 +6,7 @@
 
 /// The two variable fonts the design uses, shipped in this package's `fonts/`
 /// directory (SIL Open Font License, texts alongside the files) and served
-/// from `packages/leancode_site/fonts/`, so no third-party stylesheet blocks
+/// from `packages/leancode_jaspr_ds/fonts/`, so no third-party stylesheet blocks
 /// the first paint. Latin and Latin Extended subsets cover a site's text;
 /// `swap` shows the fallback stack until they arrive.
 library;
@@ -15,7 +15,7 @@ import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
 
 /// Where a page finds the font files, relative to its `<base href>`.
-const fontsPath = 'packages/leancode_site/fonts';
+const fontsPath = 'packages/leancode_jaspr_ds/fonts';
 
 /// The families, as `document.fonts` names them; the social card must have
 /// them loaded before it is rendered.

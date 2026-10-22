@@ -8,9 +8,9 @@ import 'dart:typed_data';
 
 import 'package:jaspr/dom.dart';
 import 'package:jaspr/server.dart';
-import 'package:leancode_site/src/fonts.dart';
-import 'package:leancode_site/src/palette.dart';
-import 'package:leancode_site/src/site_config.dart';
+import 'package:leancode_jaspr_ds/src/fonts.dart';
+import 'package:leancode_jaspr_ds/src/palette.dart';
+import 'package:leancode_jaspr_ds/src/site_config.dart';
 import 'package:path/path.dart' as p;
 import 'package:puppeteer/puppeteer.dart';
 

@@ -5,4 +5,4 @@
 part of 'pill.dart';
 
 /// The scope of [Pill]'s class names.
-const _$PillScope = ClassScope('Pill', '3feeqs');
+const _$PillScope = ClassScope('Pill', 'jt88f8');

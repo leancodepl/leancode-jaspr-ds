@@ -6,14 +6,14 @@
 
 import 'dart:io';
 
-import 'package:leancode_site/server.dart';
+import 'package:leancode_jaspr_ds/server.dart';
 import 'package:test/test.dart';
 
 void main() {
   late Directory dir;
 
   setUp(() {
-    dir = Directory.systemTemp.createTempSync('leancode_site_version_');
+    dir = Directory.systemTemp.createTempSync('leancode_jaspr_ds_version_');
   });
 
   tearDown(() => dir.deleteSync(recursive: true));

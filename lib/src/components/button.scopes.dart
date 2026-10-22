@@ -5,4 +5,4 @@
 part of 'button.dart';
 
 /// The scope of [Button]'s class names.
-const _$ButtonScope = ClassScope('Button', 'bemrxz');
+const _$ButtonScope = ClassScope('Button', 'v4fg7g');

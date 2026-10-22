@@ -5,4 +5,4 @@
 part of 'og_card.dart';
 
 /// The scope of [OgCard]'s class names.
-const _$OgCardScope = ClassScope('OgCard', 'dysw03');
+const _$OgCardScope = ClassScope('OgCard', '3qyluu');

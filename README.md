@@ -4,7 +4,7 @@ AI-Provenance:
   harness: Claude Code
 -->
 
-# leancode_site
+# leancode_jaspr_ds
 
 The LeanCode design system for the Jaspr sites of LeanCode's packages: the
 palette and tokens, the base styles, the fonts, the shared components, and the
@@ -23,7 +23,7 @@ on the package from git and overrides jaspr to the same commit, which
 dependencies:
   jaspr: ^0.23.4
   jaspr_class_scope: ^0.1.1
-  leancode_site:
+  leancode_jaspr_ds:
     git:
       url: https://github.com/leancodepl/leancode-jaspr-ds
       ref: <commit>
@@ -60,7 +60,7 @@ site's generated options on its own; nothing is registered by hand.
 
 1. **Describe the site** in a `SiteConfig`: name, tagline, description, URLs,
    install command, version, keywords and logo. Read the version with
-   `versionFromPubspec` from `package:leancode_site/server.dart`.
+   `versionFromPubspec` from `package:leancode_jaspr_ds/server.dart`.
 2. **Wrap the `Document`** in a `Site` with that config, give the document
    `base: config.basePath` and `meta: siteMeta(config)`, and put `SiteHead()`
    in its head. Every shared component reads the config through `Site.of`.
@@ -76,11 +76,11 @@ site's generated options on its own; nothing is registered by hand.
 5. **Bring the mark**: an `Icon` for the word mark that `SiteConfig.logo`
    draws, and a favicon from `faviconSvg`.
 6. **Keep the fonts in the build.** They are served from
-   `packages/leancode_site/fonts/`, so the build script keeps that directory
+   `packages/leancode_jaspr_ds/fonts/`, so the build script keeps that directory
    of the build output and removes the rest of `packages/`, as ciach's
    `website/tool/build.sh` does.
 7. **Check the assets** with `assetGoldenTests` from
-   `package:leancode_site/testing.dart`: it renders the favicon set with
+   `package:leancode_jaspr_ds/testing.dart`: it renders the favicon set with
    `iconAssets`, the social card with `ogCardAsset`, writes `favicon.svg` and
    `webManifest`, and compares them all with the committed files.
    `UPDATE_GOLDENS=1 dart test` rewrites them.
@@ -89,7 +89,7 @@ site's generated options on its own; nothing is registered by hand.
 
 | Library | What is in it |
 | --- | --- |
-| `leancode_site.dart` | `Palette`, the tokens and base styles, the fonts, the components, `SiteConfig` and `Site`, `SiteHead` and `PageHead`, the highlighter and `Icon`. |
+| `leancode_jaspr_ds.dart` | `Palette`, the tokens and base styles, the fonts, the components, `SiteConfig` and `Site`, `SiteHead` and `PageHead`, the highlighter and `Icon`. |
 | `server.dart` | `versionFromPubspec`, for the server entrypoint. |
 | `testing.dart` | `assetGoldenTests`, `iconAssets`, `ogCardAsset`, `AssetRenderer` and `compare`. |
 

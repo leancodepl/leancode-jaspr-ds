@@ -5,4 +5,4 @@
 part of 'feature_grid.dart';
 
 /// The scope of [FeatureGrid]'s class names.
-const _$FeatureGridScope = ClassScope('FeatureGrid', 'rvnxqb');
+const _$FeatureGridScope = ClassScope('FeatureGrid', 'lx51m8');

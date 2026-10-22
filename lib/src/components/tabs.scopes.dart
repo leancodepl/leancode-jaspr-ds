@@ -5,4 +5,4 @@
 part of 'tabs.dart';
 
 /// The scope of [Tabs]'s class names.
-const _$TabsScope = ClassScope('Tabs', '7hlxy9');
+const _$TabsScope = ClassScope('Tabs', 'cw9910');

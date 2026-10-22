@@ -5,4 +5,4 @@
 part of 'shell.dart';
 
 /// The scope of [PageShell]'s class names.
-const _$PageShellScope = ClassScope('PageShell', 'dsxdjw');
+const _$PageShellScope = ClassScope('PageShell', 'gud2i8');

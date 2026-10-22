@@ -5,4 +5,4 @@
 part of 'highlight.dart';
 
 /// The scope of [Highlight]'s class names.
-const _$HighlightScope = ClassScope('Highlight', 'yf6x3d');
+const _$HighlightScope = ClassScope('Highlight', 'q8wl35');

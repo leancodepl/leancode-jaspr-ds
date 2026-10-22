@@ -5,4 +5,4 @@
 part of 'footer.dart';
 
 /// The scope of [SiteFooter]'s class names.
-const _$SiteFooterScope = ClassScope('SiteFooter', 'go4wmx');
+const _$SiteFooterScope = ClassScope('SiteFooter', 'ihdn5e');

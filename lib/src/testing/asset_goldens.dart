@@ -12,10 +12,10 @@ import 'dart:typed_data';
 
 import 'package:image/image.dart' as img;
 import 'package:jaspr/server.dart';
-import 'package:leancode_site/src/components/og_card.dart';
-import 'package:leancode_site/src/site_config.dart';
-import 'package:leancode_site/src/testing/asset_renderer.dart';
-import 'package:leancode_site/src/testing/pixel_compare.dart';
+import 'package:leancode_jaspr_ds/src/components/og_card.dart';
+import 'package:leancode_jaspr_ds/src/site_config.dart';
+import 'package:leancode_jaspr_ds/src/testing/asset_renderer.dart';
+import 'package:leancode_jaspr_ds/src/testing/pixel_compare.dart';
 import 'package:path/path.dart' as p;
 import 'package:test/test.dart';
 

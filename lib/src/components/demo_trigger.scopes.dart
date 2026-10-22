@@ -5,4 +5,4 @@
 part of 'demo_trigger.dart';
 
 /// The scope of [DemoTrigger]'s class names.
-const _$DemoTriggerScope = ClassScope('DemoTrigger', 'dmg3la');
+const _$DemoTriggerScope = ClassScope('DemoTrigger', 'k10oq7');

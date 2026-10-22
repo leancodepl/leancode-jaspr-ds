@@ -98,7 +98,7 @@ class const Icon(
 /// An SVG favicon: [mark] on a black square, [size] pixels on a side with
 /// corners of [radius] in the 64-unit viewBox. A site writes it to
 /// `web/favicon.svg` and rasterizes it into the other icons with
-/// `package:leancode_site/testing.dart`.
+/// `package:leancode_jaspr_ds/testing.dart`.
 String faviconSvg({
   required String mark,
   required String background,

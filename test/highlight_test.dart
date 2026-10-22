@@ -4,7 +4,7 @@
  *   harness: Claude Code
  */
 
-import 'package:leancode_site/leancode_site.dart';
+import 'package:leancode_jaspr_ds/leancode_jaspr_ds.dart';
 import 'package:test/test.dart';
 
 const _console = Language(

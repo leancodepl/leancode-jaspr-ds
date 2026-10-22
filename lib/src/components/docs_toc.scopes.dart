@@ -5,4 +5,4 @@
 part of 'docs_toc.dart';
 
 /// The scope of [DocsToc]'s class names.
-const _$DocsTocScope = ClassScope('DocsToc', 'huk483');
+const _$DocsTocScope = ClassScope('DocsToc', '2xmm8k');

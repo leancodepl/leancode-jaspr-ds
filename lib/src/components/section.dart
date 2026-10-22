@@ -1,9 +1,9 @@
 import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
 import 'package:jaspr_class_scope/jaspr_class_scope.dart';
-import 'package:leancode_site/src/components/copy_button.dart';
-import 'package:leancode_site/src/site_config.dart';
-import 'package:leancode_site/src/styles.dart';
+import 'package:leancode_jaspr_ds/src/components/copy_button.dart';
+import 'package:leancode_jaspr_ds/src/site_config.dart';
+import 'package:leancode_jaspr_ds/src/styles.dart';
 
 part 'section.scopes.dart';
 

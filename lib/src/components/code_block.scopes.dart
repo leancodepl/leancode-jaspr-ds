@@ -5,4 +5,4 @@
 part of 'code_block.dart';
 
 /// The scope of [CodeBlock]'s class names.
-const _$CodeBlockScope = ClassScope('CodeBlock', 'cdkn80');
+const _$CodeBlockScope = ClassScope('CodeBlock', 'wp6x35');

@@ -13,9 +13,9 @@ import 'dart:convert';
 
 import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
-import 'package:leancode_site/src/fonts.dart';
-import 'package:leancode_site/src/palette.dart';
-import 'package:leancode_site/src/site_config.dart';
+import 'package:leancode_jaspr_ds/src/fonts.dart';
+import 'package:leancode_jaspr_ds/src/palette.dart';
+import 'package:leancode_jaspr_ds/src/site_config.dart';
 
 /// Site-wide `<meta name>` tags for the `Document`.
 Map<String, String> siteMeta(SiteConfig site) => {

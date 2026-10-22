@@ -5,4 +5,4 @@
 part of 'nav_bar.dart';
 
 /// The scope of [NavBar]'s class names.
-const _$NavBarScope = ClassScope('NavBar', 'odckfj');
+const _$NavBarScope = ClassScope('NavBar', 'd1a972');
